@@ -1,0 +1,5 @@
+﻿  read.c
+E:\Mahesh Projects\PROJECT SOLUTION\Library Management System\read.c(20,17): warning C4098: 'read': 'void' function returning a value
+E:\Mahesh Projects\PROJECT SOLUTION\Library Management System\read.c(10): fatal  error C1075: '{': no matching token found
+  write.c
+  Generating Code...

@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
-#include<fstream>
 #include"Booksinfo.h"
 #include"Database.h"
 #include"Linkedlist.h"
@@ -9,8 +8,7 @@
 void search()
 {
 	int key;
-	book* ptr = NULL;
-	ptr = head;
+	book* ptr = head;
 	printf("Enter the id no :");
 	scanf("%d", &key);
 	while (ptr != NULL)

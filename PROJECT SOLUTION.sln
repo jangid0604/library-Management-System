@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Library Managment System in SLL", "Library Managment System in SLL\Library Managment System in SLL.vcxproj", "{F80B798E-3FC2-4036-8F66-B294A3FF0AB4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Library Management System", "Library Management System\Library Management System.vcxproj", "{6D4A376F-4343-42C7-A522-B6050590234E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F80B798E-3FC2-4036-8F66-B294A3FF0AB4}.Release|x64.Build.0 = Release|x64
 		{F80B798E-3FC2-4036-8F66-B294A3FF0AB4}.Release|x86.ActiveCfg = Release|Win32
 		{F80B798E-3FC2-4036-8F66-B294A3FF0AB4}.Release|x86.Build.0 = Release|Win32
+		{6D4A376F-4343-42C7-A522-B6050590234E}.Debug|x64.ActiveCfg = Debug|x64
+		{6D4A376F-4343-42C7-A522-B6050590234E}.Debug|x64.Build.0 = Debug|x64
+		{6D4A376F-4343-42C7-A522-B6050590234E}.Debug|x86.ActiveCfg = Debug|Win32
+		{6D4A376F-4343-42C7-A522-B6050590234E}.Debug|x86.Build.0 = Debug|Win32
+		{6D4A376F-4343-42C7-A522-B6050590234E}.Release|x64.ActiveCfg = Release|x64
+		{6D4A376F-4343-42C7-A522-B6050590234E}.Release|x64.Build.0 = Release|x64
+		{6D4A376F-4343-42C7-A522-B6050590234E}.Release|x86.ActiveCfg = Release|Win32
+		{6D4A376F-4343-42C7-A522-B6050590234E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
